@@ -13,11 +13,11 @@ Simple server that can create, delete, list and count likes of a repository;
 
 <b>To install dependencies:</b>
 ```
-yarn install
+$ yarn install
 ```
 <b>To start server:</b>
 ```
-yarn dev
+$ yarn dev
 ```
 ### 🚦 Routes
 
